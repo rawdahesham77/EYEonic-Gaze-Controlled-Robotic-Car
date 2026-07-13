@@ -219,7 +219,7 @@ Watch the project in action:
 
 https://github.com/user-attachments/assets/8f40f9e7-3efa-4b49-873c-2f8d6b8d99fa
 
-👉 **Demo Video:** *(Add YouTube or LinkedIn link here)*
+👉 **Demo Video:** 
 
 ---
 
